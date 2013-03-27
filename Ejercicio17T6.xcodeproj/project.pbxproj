@@ -28,13 +28,13 @@
 		3E097461170329F6007471CF /* Ejercicio17T6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ejercicio17T6; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E097464170329F6007471CF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		3E097466170329F6007471CF /* Ejercicio17T6.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Ejercicio17T6.1; sourceTree = "<group>"; };
-		3E09746E17032AB0007471CF /* Cola.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Cola.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/Cola.h"; sourceTree = "<group>"; };
-		3E09746F17032AB0007471CF /* DCola.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DCola.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/DCola.h"; sourceTree = "<group>"; };
-		3E09747017032AB0007471CF /* Excepciones.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Excepciones.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/Excepciones.h"; sourceTree = "<group>"; };
-		3E09747117032AB0007471CF /* Lista.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Lista.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/Lista.h"; sourceTree = "<group>"; };
-		3E09747217032AB0007471CF /* Pila.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Pila.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/Pila.h"; sourceTree = "<group>"; };
-		3E09747317032AB0007471CF /* PilaE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PilaE.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/PilaE.h"; sourceTree = "<group>"; };
-		3E09747417032AB0007471CF /* PilaLE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PilaLE.h; path = "../../../../../Volumes/Datos/Estudios/Univerisdad/segundo/Estructura de datos y algoritmos/TADs-Tema6/PilaLE.h"; sourceTree = "<group>"; };
+		3E09747517032EA1007471CF /* Cola.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cola.h; sourceTree = "<group>"; };
+		3E09747617032EA1007471CF /* DCola.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCola.h; sourceTree = "<group>"; };
+		3E09747717032EA1007471CF /* Excepciones.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Excepciones.h; sourceTree = "<group>"; };
+		3E09747817032EA1007471CF /* Lista.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Lista.h; sourceTree = "<group>"; };
+		3E09747917032EA1007471CF /* Pila.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pila.h; sourceTree = "<group>"; };
+		3E09747A17032EA1007471CF /* PilaE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PilaE.h; sourceTree = "<group>"; };
+		3E09747B17032EA1007471CF /* PilaLE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PilaLE.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,13 +77,13 @@
 		3E09746D17032A9E007471CF /* headers */ = {
 			isa = PBXGroup;
 			children = (
-				3E09746E17032AB0007471CF /* Cola.h */,
-				3E09746F17032AB0007471CF /* DCola.h */,
-				3E09747017032AB0007471CF /* Excepciones.h */,
-				3E09747117032AB0007471CF /* Lista.h */,
-				3E09747217032AB0007471CF /* Pila.h */,
-				3E09747317032AB0007471CF /* PilaE.h */,
-				3E09747417032AB0007471CF /* PilaLE.h */,
+				3E09747517032EA1007471CF /* Cola.h */,
+				3E09747617032EA1007471CF /* DCola.h */,
+				3E09747717032EA1007471CF /* Excepciones.h */,
+				3E09747817032EA1007471CF /* Lista.h */,
+				3E09747917032EA1007471CF /* Pila.h */,
+				3E09747A17032EA1007471CF /* PilaE.h */,
+				3E09747B17032EA1007471CF /* PilaLE.h */,
 			);
 			name = headers;
 			sourceTree = "<group>";
